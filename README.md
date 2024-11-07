@@ -40,4 +40,6 @@ Sou um desenvolvedor apaixonado por **Inteligência Artificial**, **Visão Compu
 <p align="center">
   Obrigado pela visita! ✨
 </p>
-![teste](https://visitor-badge.glitch.me/badge?page_id=GabrielRibeiroRodrigues.visitor-badge)
+
+
+
