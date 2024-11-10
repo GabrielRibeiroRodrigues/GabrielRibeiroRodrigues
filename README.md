@@ -37,9 +37,7 @@ Sou um desenvolvedor apaixonado por **Inteligência Artificial**, **Visão Compu
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GabrielRibeiroRodrigues&theme=github-compact" alt="GitHub Activity Graph"/>
 </p>
 
-<p align="center">
-  Obrigado pela visita! ✨
-</p>
+
 
 
 
