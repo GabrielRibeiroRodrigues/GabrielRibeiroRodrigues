@@ -22,7 +22,7 @@ Sou um desenvolvedor apaixonado por **Inteligência Artificial**, **Visão Compu
 ---
 
 ## 🌱 No que estou Trabalhando
-- **Projeto de Reconhecimento de Placas Veiculares** com **YOLOv8** e **Tesseract**
+- **Projeto de Reconhecimento de Placas Veiculares** com **YOLOv8**
 - Desenvolvimento de uma aplicação web para monitoramento e análise de imagens em **tempo real** usando **Django**
 
 ---
