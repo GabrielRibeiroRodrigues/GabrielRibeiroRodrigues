@@ -1,4 +1,4 @@
-Olá, sou Gabriel! 👋
+Olá, sou Gabriel! 
 Sou um desenvolvedor apaixonado por Inteligência Artificial, Visão Computacional e Desenvolvimento Web. Estou sempre em busca de aprender novas tecnologias e explorar projetos que envolvem Machine Learning e Reconhecimento de Padrões.
 
 🛠 Tecnologias e Ferramentas
