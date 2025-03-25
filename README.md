@@ -1,8 +1,52 @@
 Olá, sou Gabriel!!
 Sou um desenvolvedor apaixonado por Inteligência Artificial, Visão Computacional e Desenvolvimento Web. Estou sempre em busca de aprender novas tecnologias e explorar projetos que envolvem Machine Learning e Reconhecimento de Padrões.
 
-🛠 Tecnologias e Ferramentas !!
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/> <img src="https://img.shields.io/badge/Tesseract-5F9EA0?style=for-the-badge&logo=tesseract&logoColor=white" alt="Tesseract"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/> <img 
+## **💬 My skills:**
+<details>
+  <summary>Languagues</summary>
+ 
+ > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%23563D7C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2300000.svg?style=for-the-badge&logo=python&logoColor=white)
+</details>
+
+<details>
+  <summary>Frameworks and Libraries</summary>
+  
+> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![ReactNative](https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+</details>
+
+<details>
+  <summary>Database</summary>
+  
+> ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%230769AD.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+</details>
+
+<details>
+  <summary>Design</summary>
+  
+> 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</details>
+
+<details>
+  <summary>Versioning</summary>
+  
+> ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</details>
+
+<details>
+  <summary>Others</summary>
+  
+> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</details>
                                                                                                                                📈 Estatísticas do GitHub
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GabrielRibeiroRodrigues&show_icons=true&count_private=true&theme=transparent&hide_border=true" width="48%" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRibeiroRodrigues&langs_count=12&count_private=true&layout=compact&hide=Jupyter%20Notebook&theme=transparent&hide_border=true" width="48%" alt="Top Languages"/> </div>
 🌱 No que estou Trabalhando:
