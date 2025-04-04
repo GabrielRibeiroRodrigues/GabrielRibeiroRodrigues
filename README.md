@@ -51,7 +51,7 @@ Sou um desenvolvedor apaixonado por Inteligência Artificial, Visão Computacion
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GabrielRibeiroRodrigues&show_icons=true&count_private=true&theme=transparent&hide_border=true" width="48%" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRibeiroRodrigues&langs_count=12&count_private=true&layout=compact&hide=Jupyter%20Notebook&theme=transparent&hide_border=true" width="48%" alt="Top Languages"/> </div>
 🌱 No que estou Trabalhando:
 Projeto de Reconhecimento de Placas Veiculares com YOLOv8
-Desenvolvimento de uma aplicação web para monitoramento e análise de imagens em tempo real usando Django                         Aprendendo  Docker                                                                                      
+                                                                                      
 📫 Entre em Contato
 <p align="left"> <a href="https://www.linkedin.com/in/gabriel-ribeiro-a1a465211/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:gabriel.ribeiro@alunos.ifsuldeminas.edu.br"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
 
