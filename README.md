@@ -39,9 +39,14 @@ Sou graduando em <strong>Ciência da Computação</strong> no IFSULDEMINAS - Cam
 
 📊 Atividade no GitHub
 <div align="center">
-<img src="https://img.shields.io/github/followers/SEU_USER_AQUI?label=Seguidores&style=for-the-badge&color=2ea44f">
-<img src="https://img.shields.io/github/stars/SEU_USER_AQUI?label=Estrelas&style=for-the-badge&color=f3e050">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&theme=vision-friendly-dark" height="165em" />
+
+<img src="https://img.shields.io/github/stars/GabrielRibeiroRodrigues?label=Estrelas&style=for-the-badge&color=f3e050">
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRibeiroRodrigues&layout=compact&theme=vision-friendly-dark" height="165em" />
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielRibeiroRodrigues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="165em" />
 </div>
 
 ✉️ Vamos nos conectar?
@@ -49,7 +54,7 @@ Sou graduando em <strong>Ciência da Computação</strong> no IFSULDEMINAS - Cam
 <a href="https://www.linkedin.com/in/gabriel-ribeiro-a1a465211/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:gabriellacuher@gmail.com@gmail.com" target="_blank">
+<a href="mailto:gabriellacuher@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 </div>
