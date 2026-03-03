@@ -1,6 +1,6 @@
 👨‍💻 Sobre Mim
 <p align="left">
-Sou graduando em <strong>Ciência da Computação</strong> no IFSULDEMINAS - Campus Muzambinho (6/8). Sou um desenvolvedor versátil, atuando com naturalidade tanto no <strong>front-end</strong> quanto no <strong>back-end</strong> para construir soluções robustas, escaláveis e eficientes.
+Sou graduando em <strong>Ciência da Computação</strong> no IFSULDEMINAS - Campus Muzambinho (7/8). Sou um desenvolvedor versátil, atuando com naturalidade tanto no <strong>front-end</strong> quanto no <strong>back-end</strong> para construir soluções robustas, escaláveis e eficientes.
 </p>
 
 🚀 Diretor de Desenvolvimento de Software na Intech Júnior, liderando soluções tecnológicas de impacto.
