@@ -46,10 +46,10 @@ Sou graduando em <strong>Ciência da Computação</strong> no IFSULDEMINAS - Cam
 
 ✉️ Vamos nos conectar?
 <div align="center">
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-ribeiro-a1a465211/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
+<a href="mailto:gabriellacuher@gmail.com@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 </div>
