@@ -39,14 +39,14 @@ Sou graduando em <strong>Ciência da Computação</strong> no IFSULDEMINAS - Cam
 
 📊 Atividade no GitHub
 <div align="center">
-
+<img src="https://img.shields.io/github/followers/GabrielRibeiroRodrigues?label=Seguidores&style=for-the-badge&color=2ea44f">
 <img src="https://img.shields.io/github/stars/GabrielRibeiroRodrigues?label=Estrelas&style=for-the-badge&color=f3e050">
 
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRibeiroRodrigues&layout=compact&theme=vision-friendly-dark" height="165em" />
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielRibeiroRodrigues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="165em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRibeiroRodrigues&layout=compact&theme=dark&hide_border=true" height="165em" />
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielRibeiroRodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="165em" />
 </div>
 
 ✉️ Vamos nos conectar?
