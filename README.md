@@ -13,6 +13,7 @@ Sou um desenvolvedor com foco em <strong>Backend (Django e APIs REST)</strong>, 
   * Ouro (2024) – Regional SBC
   * Prata (2025) – Regional SBC
   * Bronze (2025) – Maratona Mineira
+  * Bronze (2026) – Maratona Mineira
 * 🐳 Experiência com Docker, Git e criação de componentes reutilizáveis para otimização de desenvolvimento
 
 ---
